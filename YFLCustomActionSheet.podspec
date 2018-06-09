@@ -13,9 +13,9 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
-  s.author       = { "Cherish" => "390151825@qq.com" }
+  s.author       = { "CoderYangFeiLong" => "390151825@qq.com" }
 
-  s.platform     = :iOS,"8.0"
+  s.platform     = :ios,'8.0'
 
   s.source       = { :git => "https://github.com/CoderYangFeiLong/YFL_CustomActionSheet.git", :tag => "1.0.0" }
 
