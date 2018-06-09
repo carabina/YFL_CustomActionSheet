@@ -7,7 +7,9 @@ Pod::Spec.new do |s|
 
   s.summary      = "an simple actionsheet"
 
-  s.description  = "an simple actionsheet"
+   s.description  = <<-DESC
+              第一个podspec
+                   DESC
 
   s.homepage     = "https://github.com/CoderYangFeiLong/YFL_CustomActionSheet"
 
