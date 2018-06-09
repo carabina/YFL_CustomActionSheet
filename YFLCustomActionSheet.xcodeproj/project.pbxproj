@@ -102,7 +102,7 @@
 		1F4C67C020CBDC2300E93B3A /* YFLCustomActionSheet */ = {
 			isa = PBXGroup;
 			children = (
-				1F4C67F620CBDC6000E93B3A /* Lib */,
+				1F4C67FB20CBF96700E93B3A /* Lib */,
 				1F4C67C120CBDC2300E93B3A /* AppDelegate.h */,
 				1F4C67C220CBDC2300E93B3A /* AppDelegate.m */,
 				1F4C67F320CBDC5100E93B3A /* MainViewController.h */,
@@ -133,13 +133,13 @@
 			path = YFLCustomActionSheetUITests;
 			sourceTree = "<group>";
 		};
-		1F4C67F620CBDC6000E93B3A /* Lib */ = {
+		1F4C67FB20CBF96700E93B3A /* Lib */ = {
 			isa = PBXGroup;
 			children = (
 				1F4C67F720CBDC9200E93B3A /* YFLCustomActionSheet.h */,
 				1F4C67F820CBDC9200E93B3A /* YFLCustomActionSheet.m */,
 			);
-			name = Lib;
+			path = Lib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
