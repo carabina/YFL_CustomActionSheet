@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/CoderYangFeiLong/YFL_CustomActionSheet"
 
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
   s.author       = { "CoderYangFeiLong" => "390151825@qq.com" }
 
